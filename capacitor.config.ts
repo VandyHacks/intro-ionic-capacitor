@@ -1,7 +1,7 @@
 import { CapacitorConfig } from '@capacitor/cli';
 
 const config: CapacitorConfig = {
-  appId: 'io.ionic.starter',
+  appId: 'app.getbaseline.reminders',
   appName: 'daily-reminders',
   webDir: 'dist',
   server: {

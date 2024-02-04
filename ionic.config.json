@@ -1,0 +1,7 @@
+{
+  "name": "daily-reminders",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite"
+}
